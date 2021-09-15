@@ -7,7 +7,7 @@ print(list_of_random_things[1:])  # 1(포함) ~ 마지막
 print("\n")
 print("\n")
 
-# using in
+# using in (있는지 확인)
 print("this" in "this is a string")
 print(5 not in [1, 2, 3, 4, 6])
 

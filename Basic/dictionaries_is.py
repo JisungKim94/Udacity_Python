@@ -12,6 +12,7 @@ print("\n")
 # in, get for dictionaires
 print("carbon" in elements)
 print(elements.get("dilithium"))
+print(elements.get("helium") + 1)  # 이거 가능
 print("\n")
 
 # Identity Operator
